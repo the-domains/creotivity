@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-17T22:03:57.757Z'
+datePublished: '2016-08-17T22:04:43.711Z'
 sourcePath: _posts/2016-08-17-contact-alaw2kyahoocom.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T22:03:57.439Z'
+dateModified: '2016-08-17T22:04:43.410Z'
 title: Contact
 publisher:
   name: Alan Law
