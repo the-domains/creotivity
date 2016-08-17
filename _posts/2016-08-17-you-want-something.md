@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-17T21:42:06.391Z'
+datePublished: '2016-08-17T21:52:04.053Z'
 author: []
 via: {}
-dateModified: '2016-08-17T21:42:02.565Z'
+dateModified: '2016-08-17T21:52:02.480Z'
 title: ''
 publisher: {}
 description: You want something?
-starred: false
 sourcePath: _posts/2016-08-17-you-want-something.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: you-want-something/index.html
 _context: 'http://schema.org'
 _type: Article
