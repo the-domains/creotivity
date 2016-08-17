@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-17T22:02:47.338Z'
+datePublished: '2016-08-17T22:31:05.210Z'
 sourcePath: _posts/2016-08-17-waiting-patiently.md
 author:
   - {}
 via: {}
-dateModified: '2016-08-17T22:02:47.060Z'
+dateModified: '2016-08-17T22:31:04.948Z'
 title: ''
 publisher: {}
 description: ''
@@ -12,7 +12,7 @@ starred: false
 inFeed: true
 hasPage: true
 inNav: false
-url: waiting-patiently/index.html
+url: a5839760-569d-4e77-9925-924eb0aa5f97/index.html
 _context: 'http://schema.org'
 _type: Article
 
