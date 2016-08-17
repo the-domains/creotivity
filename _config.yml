@@ -1,16 +1,16 @@
-typography_spectrum: 0.535956708015874
+typography_spectrum: 0.6932068485766649
 color:
-  brandStrength: 0.3280396868940443
-  lightness: 0.5905095359776169
-  saturation: 0.8030510391108692
-  rhythmicContrast: 0.9655500252265483
+  brandStrength: 0.5890206918120384
+  lightness: 0.21725934487767518
+  saturation: 0.26318711997009814
+  rhythmicContrast: 0.2599716398399323
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.5627555199898779
+layout_spectrum: 0.25682438677176833
 author:
   name: Alan Law
   email: alaw2k@yahoo.com
