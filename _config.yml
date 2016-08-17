@@ -19,5 +19,8 @@ navigation:
   - name: Captures
     id: 9d815719-7315-44fc-9506-976d84036a18
     type: content
+  - name: Captures
+    id: b96317bf-6f8f-4b26-8598-24e6ce171f9b
+    type: content
 title: Life is simple
 description: be creative
