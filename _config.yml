@@ -1,14 +1,14 @@
-layout_spectrum: 0.10718270693905652
-typography_spectrum: 0.5085410894826055
+layout_spectrum: 0.5627555199898779
+typography_spectrum: 0.535956708015874
 color:
-  brandStrength: 0.8193063668441027
-  lightness: 0.2166233209427446
-  saturation: 0.7716705084312707
-  rhythmicContrast: 0.22426608065143228
+  brandStrength: 0.3280396868940443
+  lightness: 0.5905095359776169
+  saturation: 0.8030510391108692
+  rhythmicContrast: 0.9655500252265483
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: Creotivity
