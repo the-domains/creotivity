@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-17T21:37:44.627Z'
+datePublished: '2016-08-17T21:40:47.949Z'
 author: []
 via: {}
-dateModified: '2016-08-17T21:21:50.786Z'
+dateModified: '2016-08-17T21:40:47.543Z'
 title: ''
 publisher: {}
 description: 'Contact: alaw2k@yahoo.com'
-starred: false
 sourcePath: _posts/2016-08-17-contact-alaw2kyahoocom.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: contact-alaw2kyahoocom/index.html
 _context: 'http://schema.org'
 _type: Article
