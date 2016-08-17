@@ -4,7 +4,7 @@
         <description><![CDATA[Creotivity]]></description>
         <link>https://thegrid.ai/creotivity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 22:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 22:32:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creotivity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/creotivity/a5839760-569d-4e77-9925-924eb0aa5f97/index.html</link>
             <guid isPermaLink="false">a5839760-569d-4e77-9925-924eb0aa5f97</guid>
             <pubDate>Wed, 17 Aug 2016 22:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93bfec2c-2223-4260-872c-2ce556a0b17f.jpg">]]></description>
-            <link>https://thegrid.ai/creotivity/waiting-patiently/index.html</link>
-            <guid isPermaLink="false">49b827f5-c8a3-46db-883c-3569ecbe1da9</guid>
-            <pubDate>Wed, 17 Aug 2016 22:02:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
