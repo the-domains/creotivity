@@ -16,5 +16,8 @@ navigation:
   - name: About me
     id: 8a13ce8f-25b7-4449-b01c-0f89f0de4f7b
     type: content
+  - name: Captures
+    id: 9d815719-7315-44fc-9506-976d84036a18
+    type: content
 title: Life is simple
 description: be creative
