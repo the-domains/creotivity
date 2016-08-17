@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-17T22:08:24.997Z'
+datePublished: '2016-08-17T22:31:05.100Z'
 sourcePath: _posts/2016-08-17-seeing-things-close-up.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T22:08:24.120Z'
+dateModified: '2016-08-17T22:31:04.758Z'
 title: I like seeing things close up
 publisher: {}
 description: ''
 starred: false
-url: seeing-things-close-up/index.html
+url: i-like-seeing-things-close-up/index.html
 _type: Blurb
 
 ---
