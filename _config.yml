@@ -11,6 +11,10 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.5627555199898779
+author:
+  name: Alan Law
+  email: alaw2k@yahoo.com
+  url: ''
 name: Creotivity
 navigation:
   - name: About me
