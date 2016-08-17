@@ -20,5 +20,8 @@ navigation:
   - name: About me
     id: 8a13ce8f-25b7-4449-b01c-0f89f0de4f7b
     type: content
+  - name: Captures
+    id: 53dc190a-59a7-4493-8823-b09d14116750
+    type: content
 title: Creotivity
 description: be creative
