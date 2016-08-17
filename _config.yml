@@ -23,8 +23,5 @@ navigation:
   - name: Captures
     id: 9d815719-7315-44fc-9506-976d84036a18
     type: content
-  - name: LinkedIn
-    url: 'https://ca.linkedin.com/in/alan-law-pmp-csm-6413045'
-    type: external
 title: Creotivity
 description: be creative
