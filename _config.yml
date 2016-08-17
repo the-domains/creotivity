@@ -1,4 +1,3 @@
-layout_spectrum: 0.5627555199898779
 typography_spectrum: 0.535956708015874
 color:
   brandStrength: 0.3280396868940443
@@ -6,9 +5,16 @@ color:
   saturation: 0.8030510391108692
   rhythmicContrast: 0.9655500252265483
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.5627555199898779
 name: Creotivity
+navigation:
+  - name: About me
+    id: 8a13ce8f-25b7-4449-b01c-0f89f0de4f7b
+    type: content
+title: Life is simple
+description: be creative
