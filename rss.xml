@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Life is simple]]></title>
+        <description><![CDATA[Life is simple]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 21:37:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3abed5e7-810e-488c-95b6-632d1e116d4f.jpg" alt="Contact: alaw2k@yahoo.com">]]></description>
+            <link>undefinedcontact-alaw2kyahoocom/index.html</link>
+            <guid isPermaLink="false">8a13ce8f-25b7-4449-b01c-0f89f0de4f7b</guid>
+            <pubDate>Wed, 17 Aug 2016 21:37:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
