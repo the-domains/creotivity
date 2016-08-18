@@ -17,7 +17,7 @@ author:
   url: 'http://Creotivity.com'
 name: Creotivity
 navigation:
-  - name: Captures
+  - name: Capture
     id: 53dc190a-59a7-4493-8823-b09d14116750
     type: content
   - name: About me
