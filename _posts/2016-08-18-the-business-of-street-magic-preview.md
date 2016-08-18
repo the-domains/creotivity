@@ -63,16 +63,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=qx422OuUOqY'
 title: The Business of Street Magic - Preview
-datePublished: '2016-08-18T23:09:13.467Z'
-dateModified: '2016-08-18T23:05:17.723Z'
+datePublished: '2016-08-18T23:11:48.952Z'
+dateModified: '2016-08-18T23:11:48.598Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-the-business-of-street-magic-preview.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: the-business-of-street-magic-preview/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
