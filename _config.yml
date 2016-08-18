@@ -23,5 +23,8 @@ navigation:
   - name: About me
     id: 8a13ce8f-25b7-4449-b01c-0f89f0de4f7b
     type: content
+  - name: Motion
+    id: dc37d9f7-358c-4189-9a08-fc0f26ee11a1
+    type: content
 title: Creotivity
 description: be creative
